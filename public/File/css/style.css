@@ -1,0 +1,43 @@
+.header{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-top: 200px;
+    padding-bottom: 50px;
+}
+
+.btn-login {
+    text-align: center;
+    color: rgb(255, 255, 255);
+    background-color: #001aff;
+    font-size: 0.9rem;
+    border-radius: 30px;
+    letter-spacing: 0.05rem;
+    padding: 0.75rem 1rem;
+    display: block;
+}
+
+.btn-login:hover{
+    background-color: #426eff70;
+}
+
+.card-header{
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.card{
+    margin-top: 75px;
+    width: 750px;
+    max-width: 100%;
+}
+
+.btn-auth{
+    margin: auto;
+    background-color: #001aff;
+    color: white;
+    border-radius: 10px;
+}
+
+.btn-auth:hover{
+    background-color: #426eff70;
+}
